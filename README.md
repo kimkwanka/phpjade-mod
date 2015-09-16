@@ -1,6 +1,5 @@
 # phpjade-mod
 
-The modifier module for Jade template engine.  
 This project is a modification of ['phpjade'](https://github.com/kurohara/phpjade) which itself is based on ['jade-php'](https://github.com/viniwrubleski/jade-php).
 
 It was created for my own needs and features the following differences to ['phpjade'](https://github.com/kurohara/phpjade):
