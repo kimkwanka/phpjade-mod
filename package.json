@@ -1,7 +1,7 @@
 {
   "name": "phpjade-mod",
   "description": "Modification of phpjade to bring back Jade's javascript conditionals and improve the :php filter",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "homepage": "https://github.com/kimkwanka/phpjade-mod",
   "author": {
     "name": "Kim Kwanka",
@@ -38,9 +38,9 @@
     }
   ],
   "directories": {},
-    "scripts": {
-        "test": "mocha"
-      },
+  "scripts": {
+    "test": "mocha"
+  },
   "devDependencies": {
     "mocha": "^1.21.4",
     "jade": "^1.9.2"
