@@ -44,5 +44,12 @@
   "devDependencies": {
     "mocha": "^1.21.4",
     "jade": "^1.9.2"
-  }
+  },
+    "keywords": [
+    "jade",
+    "php",
+    "phpjade-mod",
+    "gulp",
+    "wordpress"
+  ],
 }

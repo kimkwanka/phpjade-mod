@@ -13,6 +13,8 @@ This allows you to use ```:php``` instead of ```-``` which is neccessary since t
 The rest of ['phpjade'](https://github.com/kurohara/phpjade)'s API modifications are still in place, so for more details on those
 check ['phpjade's documentation](https://github.com/kurohara/phpjade).
 
+Including php in your .jade files directly makes creating Wordpress sites / themes much easier.
+
 ## Modified examples to showcase slightly changed usage
 ### Example - 1
 
