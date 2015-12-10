@@ -1,7 +1,7 @@
 {
   "name": "phpjade-mod",
   "description": "Modification of phpjade to bring back Jade's javascript conditionals and improve the :php filter",
-  "version": "1.0.1",
+  "version": "1.0.3",
   "homepage": "https://github.com/kimkwanka/phpjade-mod",
   "author": {
     "name": "Kim Kwanka",
@@ -24,11 +24,17 @@
   "engines": {
     "node": ">= 0.8.0"
   },
-  "keywords": [],
+  "keywords": [
+    "jade",
+    "php",
+    "phpjade-mod",
+    "gulp",
+    "wordpress"
+  ],
   "dependencies": {
-    "acorn": "^1.2.2",
-    "moduleinfo": "^1.0.0",
-    "semver": "^5.0.1",
+    "acorn": "^2.6.4",
+    "moduleinfo": "^1.0.1",
+    "semver": "^5.1.0",
     "stack-trace": "0.0.9"
   },
   "maintainers": [
@@ -42,14 +48,23 @@
     "test": "mocha"
   },
   "devDependencies": {
-    "mocha": "^1.21.4",
-    "jade": "^1.9.2"
+    "mocha": "^2.3.4",
+    "jade": "^1.11.0"
   },
-  "keywords": [
-    "jade",
-    "php",
-    "phpjade-mod",
-    "gulp",
-    "wordpress"
-  ]
+  "gitHead": "af3d9e3760d5f67bef1a15166920b809d2f767f5",
+  "_id": "phpjade-mod@1.0.2",
+  "_shasum": "8feda7bc5e19240113538ec99ae82b0b98f774a3",
+  "_from": "phpjade-mod@>=1.0.0 <2.0.0",
+  "_npmVersion": "2.11.3",
+  "_nodeVersion": "0.12.7",
+  "_npmUser": {
+    "name": "kimkwanka",
+    "email": "kimkwanka@gmail.com"
+  },
+  "dist": {
+    "shasum": "8feda7bc5e19240113538ec99ae82b0b98f774a3",
+    "tarball": "http://registry.npmjs.org/phpjade-mod/-/phpjade-mod-1.0.2.tgz"
+  },
+  "_resolved": "https://registry.npmjs.org/phpjade-mod/-/phpjade-mod-1.0.2.tgz",
+  "readme": "ERROR: No README data found!"
 }
