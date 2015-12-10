@@ -1,7 +1,7 @@
 {
   "name": "phpjade-mod",
   "description": "Modification of phpjade to bring back Jade's javascript conditionals and improve the :php filter",
-  "version": "1.0.3",
+  "version": "1.0.5",
   "homepage": "https://github.com/kimkwanka/phpjade-mod",
   "author": {
     "name": "Kim Kwanka",
@@ -50,21 +50,5 @@
   "devDependencies": {
     "mocha": "^2.3.4",
     "jade": "^1.11.0"
-  },
-  "gitHead": "af3d9e3760d5f67bef1a15166920b809d2f767f5",
-  "_id": "phpjade-mod@1.0.2",
-  "_shasum": "8feda7bc5e19240113538ec99ae82b0b98f774a3",
-  "_from": "phpjade-mod@>=1.0.0 <2.0.0",
-  "_npmVersion": "2.11.3",
-  "_nodeVersion": "0.12.7",
-  "_npmUser": {
-    "name": "kimkwanka",
-    "email": "kimkwanka@gmail.com"
-  },
-  "dist": {
-    "shasum": "8feda7bc5e19240113538ec99ae82b0b98f774a3",
-    "tarball": "http://registry.npmjs.org/phpjade-mod/-/phpjade-mod-1.0.2.tgz"
-  },
-  "_resolved": "https://registry.npmjs.org/phpjade-mod/-/phpjade-mod-1.0.2.tgz",
-  "readme": "Readme.md"
+  }
 }
